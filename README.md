@@ -2,6 +2,7 @@
 
 ## Contents
 *Machine Learning Approach*
+
 * [Probabilistic Classifiers](#Probabilistic-Classifiers)
 * [Linear Classifiers](#Linear-Classifiers)
 * [Decision Tree Classifiers](#Decision-Tree-Classifiers)
@@ -9,6 +10,7 @@
 * [Neural Network Approach](#Neural-Network-Approach)
 
 *Lexical Based Approach*
+
 * [Dictionary based Approach](#Dictionary-based-Approach)
 * [Corpus based Approach](#Corpus-based-Approach)
 * [Statistical Approach](#Statistical-Approach)
@@ -18,7 +20,7 @@
 * * *
 ### Probabilistic Classifiers
 - **Senti-lexicon and improved Naïve Bayes algorithms for sentiment analysis of restaurant reviews** (2012), Hanhoon Kang et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S0957417411016538)
-- **Approaching Sentiment Analysis by using semi-supervised learning of multi-dimensional classifiers** (2012), Jonathan Ortigosa-Hernandez et al. [[pdf]] (http://www.sciencedirect.com/science/article/pii/S0925231212001282)
+- **Approaching Sentiment Analysis by using semi-supervised learning of multi-dimensional classifiers** (2012), Jonathan Ortigosa-Hernandez et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S0925231212001282)
 - **JMaxAlign: A Maximum Entropy Parallel Sentence Alignment Tool** (2012), Joseph Max KauFmann. [[pdf]](http://www.aclweb.org/anthology/C12-3035)
 
 ### Linear Classifiers
@@ -33,7 +35,7 @@
 ### Neural Network Approach
 - **Recursive deep models for semantic compositionality over a sentiment treebank** (2013), R. Socher et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf) [[code]](https://nlp.stanford.edu/sentiment/code.html)
 - **A Convolutional Neural Network for Modelling Sentences**(2014), Nal Kalchbrenner et al. [[pdf]](http://www.aclweb.org/anthology/P14-1062) [[code]](https://github.com/xiaohan2012/twitter-sent-dnn)
-- **Aspect Level Sentiment Classification with Deep Memory Network**(2016), Duyu Tang et al. [[pdf]](https://arxiv.org/abs/1605.08900) [[code]] (https://github.com/ganeshjawahar/mem_absa)
+- **Aspect Level Sentiment Classification with Deep Memory Network**(2016), Duyu Tang et al. [[pdf]](https://arxiv.org/abs/1605.08900) [[code]](https://github.com/ganeshjawahar/mem_absa)
 - **Learning to Generate Reviews and Discovering Sentiment**(2017), Alec Radford et al. [[pdf]](https://arxiv.org/abs/1704.01444) [[code]](https://github.com/openai/generating-reviews-discovering-sentiment)
 ### Dictionary based Approach
 ### Corpus based Approach
