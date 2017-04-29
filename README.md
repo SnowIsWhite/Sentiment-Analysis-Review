@@ -18,9 +18,11 @@
 * [Lexicon based Approach](#Lexicon-based-Approach)
 
 *Other NLP techniques*
+
 * [Other NLP techniques](#Other-NLP-techniques)
 
 * * *
+
 ### Probabilistic Classifiers
 - **Senti-lexicon and improved Naïve Bayes algorithms for sentiment analysis of restaurant reviews** (2012), Hanhoon Kang et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S0957417411016538)
 - **Approaching Sentiment Analysis by using semi-supervised learning of multi-dimensional classifiers** (2012), Jonathan Ortigosa-Hernandez et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S0925231212001282)
