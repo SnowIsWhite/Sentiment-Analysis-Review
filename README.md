@@ -59,11 +59,14 @@
 - **Indexing by Latent Semantic Analysis**(1990), Deerwester et al. [[pdf]](http://lsa3.colorado.edu/papers/JASIS.lsi.90.pdf)
 - **Producing high-dimensional semantic spaces from lexical co-occurrence**(1996), Lund et al. [[pdf]](https://link.springer.com/article/10.3758/BF03204766)
 - **Thumbs up or thumbs down?: semantic orientation applied to unsupervised classification of reviews**(2002), Turney et al. [[pdf]](http://dl.acm.org/citation.cfm?id=1073153)
+- **Thumbs up? Sentiment Classification using Machine Learnin Techniques**(2002), Pang et al. [[pdf]](https://www.cs.cornell.edu/home/llee/papers/sentiment.pdf)
+- **Seeing stars: Exploiting class relationships for sentiment categorization with respect to rating scales**(2005), Pang et al. [[pdf]](http://www.cs.cornell.edu/home/llee/papers/pang-lee-stars.pdf)
 - **Old Wine or Warm Beer: Target-Specific Sentiment Analysis of Adjectives**(2008), Fahrni et al. [[pdf]](http://www.aisb.org.uk/convention/aisb08/proc/proceedings/02%20Affective%20Language/11.pdf)
 - **Weakly supervised techniques for domain-independent sentiment classification**(2009), Read et al. [[pdf]](http://dl.acm.org/citation.cfm?id=1651470)
-- **Exploring determinants of voting for the “helpfulness” of online user reviews: A text mining approach**(2011), Cao et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S0167923610001909)
+- **Exploring determinants of voting for the “helpfulness” of online user reviews: A text mining approach**(2011), Cao et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S0167923610001909)`
 - **Manipulation of online reviews: An analysis of ratings, readability, and sentiments**(2012), Hu et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S0167923611002065)
 - **Identifying the semantic orientation of terms using S-HAL for sentiment analysis**(2012), Xu et al. [[pdf]](https://pdfs.semanticscholar.org/afba/b1ece967c5e14f45861e8e741b051cbee2a5.pdf)
+- **Predicting Collective Sentiment Dynamics from Time-series Social Media**(2012), Nguyen et al. [[pdf]](http://sentic.net/wisdom2012nguyen.pdf)
 
 ### Semantic Approach
 - **Determining the Sentiment of Opinions**(2004), Kim et al. [[pdf]](http://www.isi.edu/natural-language/people/hovy/papers/04Coling-opinion-valences.pdf)
