@@ -3,23 +3,23 @@
 ## Contents
 *Machine Learning Approach*
 
-* [Probabilistic Classifiers](#Probabilistic-Classifiers)
-* [Linear Classifiers](#Linear-Classifiers)
-* [Decision Tree Classifiers](#Decision-Tree-Classifiers)
-* [Unsupervised Learning](#Unsupervised-Learning)
-* [Deep Learning Approach](#Deep-Learning-Approach)
+* [Probabilistic Classifiers](#probabilistic-classifiers)
+* [Linear Classifiers](#linear-classifiers)
+* [Decision Tree Classifiers](#decision-tree-classifiers)
+* [Unsupervised Learning](#unsupervised-learning)
+* [Deep Learning Approach](#deep-learning-approach)
 
 *Lexical Based Approach*
 
-* [Dictionary based Approach](#Dictionary-based-Approach)
-* [Corpus based Approach](#Corpus-based-Approach)
-* [Statistical Approach](#Statistical-Approach)
-* [Semantic Approach](#Semantic-Approach)
-* [Lexicon based Approach](#Lexicon-based-Approach)
+* [Dictionary based Approach](#dictionary-based-approach)
+* [Corpus based Approach](#corpus-based-approach)
+* [Statistical Approach](#statistical-approach)
+* [Semantic Approach](#semantic-approach)
+* [Lexicon based Approach](#lexicon-based-approach)
 
 *Other NLP techniques*
 
-* [Other NLP techniques](#Other-NLP-techniques)
+* [Other NLP techniques](#other-nlp-techniques)
 
 * * *
 
