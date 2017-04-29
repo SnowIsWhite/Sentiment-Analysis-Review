@@ -78,4 +78,6 @@
 - **Sentiment Analysis via Dependency Parsing**(2012), Caro et al. [[pdf]](http://www.academia.edu/2559547/Sentiment_analysis_via_dependency_parsing)
 - **Identifying helpful reviews based on customer’s mentions about experiences**(2012), Min et al. [[pdf]](https://www.researchgate.net/publication/257403914_Identifying_helpful_reviews_based_on_customer%27s_mentions_about_experiences)
 ## Reference
-Medhat, Walaa, Ahmed Hassan, and Hoda Korashy. "Sentiment analysis algorithms and applications: A survey." Ain Shams Engineering Journal 5.4 (2014): 1093-1113.
+- Medhat, Walaa, Ahmed Hassan, and Hoda Korashy. "Sentiment analysis algorithms and applications: A survey." Ain Shams Engineering Journal 5.4 (2014): 1093-1113.
+
+- Cambria, Erik, et al. "New avenues in opinion mining and sentiment analysis." IEEE Intelligent Systems 28.2 (2013): 15-21.
